@@ -1,7 +1,13 @@
 source 'https://rubygems.org'
+
+gem 'jekyll', '~> 4.0'
+gem 'execjs', '~> 2.9.1'
+gem 'activesupport', '~> 7.0'
+gem 'google-protobuf', '>= 3.24.3'
+
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
-    gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
