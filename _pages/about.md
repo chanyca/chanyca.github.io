@@ -6,7 +6,7 @@ subtitle: <a href='https://www.bbe.caltech.edu/academics/cns'>PhD Student @ Calt
 
 profile:
   align: right
-  image: prof_pic.JPG
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>MC 139-74</p>
