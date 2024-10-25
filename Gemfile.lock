@@ -248,14 +248,12 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  activesupport (~> 7.0)
+  activesupport (~> 7.2.1.1)
   classifier-reborn
   css_parser
-  execjs (~> 2.9.1)
   feedjira
-  google-protobuf (>= 3.24.3)
+  google-protobuf (~> 4.28.2)
   httparty
-  jekyll (~> 4.0)
   jekyll-archives
   jekyll-email-protect
   jekyll-feed
@@ -272,6 +270,10 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
+  json (~> 2.7.2)
+  loofah (~> 2.22.0)
+  rexml (~> 3.3.8)
+  sass-embedded (~> 1.80.3)
   unicode_utils
   webrick
 

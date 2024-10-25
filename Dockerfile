@@ -60,6 +60,7 @@ ADD Gemfile /srv/jekyll
 WORKDIR /srv/jekyll
 
 # install jekyll and dependencies
+# RUN gem install jekyll -v 3.9.5
 RUN gem install --no-document jekyll bundler
 RUN bundle install --no-cache
 

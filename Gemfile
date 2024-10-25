@@ -1,9 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.0'
-gem 'execjs', '~> 2.9.1'
-gem 'activesupport', '~> 7.0'
-gem 'google-protobuf', '>= 3.24.3'
+gem 'activesupport', '~> 7.2.1.1'
+gem 'google-protobuf', '~> 4.28.2'
+gem 'loofah', '~> 2.22.0'
+gem 'sass-embedded', '~> 1.80.3'
+gem 'rexml', '~> 3.3.8'
+gem 'json', '~> 2.7.2'
 
 
 group :jekyll_plugins do
