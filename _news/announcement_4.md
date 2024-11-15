@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented a poster at VSS 2023 and won the The Patrick Hummel and Harry Gray Travel Fund !👩‍💻 Here's the title: **_Making the Invisible Visible: Crossmodal Perception in Patients with Low Vision_**, and a [**link**](https://jov.arvojournals.org/article.aspx?articleid=2791662) to the abstract.
+I presented a poster at VSS 2023 and won the The Patrick Hummel and Harry Gray Travel Fund !👩‍💻 Here's the title: **_Making the Invisible Visible: Crossmodal Perception in Patients with Low Vision_**, and a [link](https://jov.arvojournals.org/article.aspx?articleid=2791662) to the abstract.
