@@ -3,7 +3,7 @@
     "name": "Ailene Chan",
     "image": "",
     "email": "chanyca@caltech.edu",
-    "phone": "(626) 559-2752 (Google Voice number)",
+    "phone": "",
     "url": "https://chanyca.github.io",
     "summary": "Ph.D. candidate in Computational Neuroscience with over 7 years of experience conducting rigorous research in human perception and cognition. Skilled in designing and executing experimental protocols, performing quantitative and qualitative analyses, and applying multivariate statistical techniques to uncover meaningful insights. Proficient in Python and MATLAB for analyzing complex datasets and developing computational models. Experienced in scientific communication, technical writing, and fostering cross-disciplinary collaboration to drive impactful and innovative research outcomes.",
     "profiles": [
@@ -139,6 +139,12 @@
   ],
   "presentations": [
     {
+      "title": "Level Up Your Aim: Feel Your Way to Perfect Shots in VR!",
+      "event": "Vision Sciences Society Annual Meeting",
+      "date": "2025",
+      "tag": "Demo",
+      "url": "https://medium.com/@ailene.chan/galaxy-pew-pew-building-a-vr-fps-game-with-a-haptic-feedback-belt-in-one-month-17463335aced"
+    },{
       "title": "Vision Without Photoreceptors: Crossmodal Perception Within the Blind Spots",
       "event": "Vision Sciences Society Annual Meeting",
       "date": "2024",
@@ -182,7 +188,7 @@
       "keywords": [
         "Python",
         "MATLAB",
-        "Unity",
+        "Unity (C#)",
         "SQL",
         "R"
       ]
@@ -193,6 +199,8 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Psychophysics",
+        "VR",
+        "Arduino",
         "Neuroimaging: EEG, DTI, fMRI",
         "Neurostimulation: rTMS",
         "Eye-tracking: EyeLink 1000, Pupil Neon",
