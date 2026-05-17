@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.bbe.caltech.edu/academics/cns'>PhD Student @ Caltech CNS</a>. It’s a beautiful world out there I wish everyone could see it 👀🧠
+subtitle: <a href='https://www.bbe.caltech.edu/academics/cns'>PhD @ Caltech CNS</a>. It’s a beautiful world out there I wish everyone could see it 👀🧠
 
 profile:
   align: right
@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm Ailene, and I'm a researcher on human cognition and multisensory perception.
 
-I am currently a fourth-year PhD student in Caltech's Computation and Neural Systems program, working with [Prof. Shinsuke Shimojo](https://neuro.caltech.edu/). Before Caltech, I conducted vision research with [Prof. Dorita Chang](https://www.changlab.hk/) and sleep research with [Prof. Shirley Li](https://sleep.hku.hk/).
+I received my PhD in Computation and Neural Systems from Caltech, worked with [Prof. Shinsuke Shimojo](https://neuro.caltech.edu/). Before Caltech, I conducted vision research with [Prof. Dorita Chang](https://www.changlab.hk/) and sleep research with [Prof. Shirley Li](https://sleep.hku.hk/).
